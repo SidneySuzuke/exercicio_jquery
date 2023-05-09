@@ -50,12 +50,13 @@ form button {
     cursor: pointer;
     padding: 8px;
     border-radius: 8px;
-    float: right;
+    
 }
 
 ul li {
     font-size: 24px;
 }
 
-
-
+.riscado {
+    text-decoration: line-through;
+}
